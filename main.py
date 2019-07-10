@@ -23,3 +23,9 @@ print(len(connections))
 state_dict = {id: state for id, state in zip_states}
 
 draw_graph(connections, state_dict)
+
+https://github.com/sgraaf/QualitativeReasoning/blob/master/utils.py
+
+https://github.com/tycho01/qualitative-reasoning/blob/master/12205583_6195180.pdf
+
+https://www.overleaf.com/project/5d25d983da20bb7915bdb672
